@@ -1,0 +1,9 @@
+{
+  "sitecore": {
+    "instancePath": "C:\\inetpub\\wwwroot\\sc1020jss20edge\\sc1020jss20edge.local",
+    "apiKey": "{A0C26E61-7FA6-4732-8A61-FDCFA5E16774}",
+    "deploySecret": "0a46alfaisyfvi38asw9kzcma9pst7sdhao0e8oef0hsd",
+    "deployUrl": "https://sc1020jss20edge.local/sitecore/api/jss/import",
+    "layoutServiceHost": "https://sc1020jss20edge.local"
+  }
+}
