@@ -50,6 +50,10 @@ const nextConfig = {
         source: '/layouts/system/:path*',
         destination: `${jssConfig.sitecoreApiHost}/layouts/system/:path*`,
       },
+      {
+       source: '/sitecore-pss-3-pre-prod/media/:path*',
+       destination: `https://edge-beta.sitecorecloud.io/sitecore-pss-3-pre-prod/media/:path*`,
+      },
     ];
   },
 };
